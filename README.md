@@ -2,14 +2,14 @@
 
 We expect the candidate create a API (backend) and a Client (frontend) to consume and display API data.
 
-## Web API Technical Requisites
+## Technical Requisites
 
 The usage of the following are demanded
 - Node.JS
 - ES6
 - SQL Server
 - Feel free to use any framework (or none) to Frontend (we use Vue) or Backend (we use Restify and Express)
-- Containerize your application
+- Containerize your applications
 
 ## Frontend Technical Requisites
 The front-end must be separated from the API and you are free to choose the tools used in the implementation
