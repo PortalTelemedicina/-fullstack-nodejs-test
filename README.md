@@ -64,7 +64,7 @@ The front-end must be separated from the API and you are free to choose the tool
 - Use as much best practices you see fit to address the commits and/or branch naming (we use techniques based on gitflow)
 - Publishing the API and the client in the cloud will be considered a PLUS
 
-Feel free to ask me (*Luís Fernando Guedes* - **guedes@portaltelemedicina.com.br**) any question.
+Feel free to ask (**dev@portaltelemedicina.com.br**) any question.
 
 You have 7 days counting from tomorrow to finish and deliver us the address of your github repository. Please, let us know if you need more time.
 
