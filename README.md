@@ -56,7 +56,7 @@ The front-end must be separated from the API and you are free to choose the tool
 ## Documentation Requisites
 - It can be done in portuguese although being in english will also be considered a plus
 - Should be easy to read and understand the usage (from a client developer's perspective) of your services
-- It should be easy to undertand how to execute your tests (`npm test`)
+- It should be easy to understand how to execute your tests (`npm test`)
 
 ## Last Requisites
 - You can use your Github, GitLab or BitBucket to deliver this test
@@ -64,7 +64,7 @@ The front-end must be separated from the API and you are free to choose the tool
 - Use as much best practices you see fit to address the commits and/or branch naming (we use techniques based on gitflow)
 - Publishing the API and the client in the cloud will be considered a PLUS
 
-Feel free to ask (**dev@portaltelemedicina.com.br**) any question.
+Feel free to ask (**guedes@portaltelemedicina.com.br**) any question.
 
 You have 7 days counting from tomorrow to finish and deliver us the address of your github repository. Please, let us know if you need more time.
 
