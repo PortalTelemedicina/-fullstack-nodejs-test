@@ -49,7 +49,7 @@ The front-end must be separated from the API and you are free to choose the tool
 - You are the responsible the create the database structure as best as you can think of. Conciseness, coherence and best practices are going to be considered
 
 ## Running and Executing Requisites
-- *Make your project running with the minimum needed interactions will be considered important in the analysis of your performance*
+- **Make your project running with the minimum needed interactions will be considered important in the analysis of your performance**
 - Make it as easy as possible
 - The ideal scenario will be to clone your repository and execute it through a single command such as `docker run`, `docker-compose up` or `make run`
 
@@ -60,7 +60,7 @@ The front-end must be separated from the API and you are free to choose the tool
 
 ## Last Requisites
 - You can use your Github, GitLab or BitBucket to deliver this test
-- *Try to keep your commits to a reasonable atomic capacity*
+- **Try to keep your commits to a reasonable atomic capacity**
 - Use as much best practices you see fit to address the commits and/or branch naming (we use techniques based on gitflow)
 - Publishing the API and the client in the cloud will be considered a PLUS
 
